@@ -6,7 +6,7 @@ This document contains up to 20 distinct scenarios for simple CRUD operations on
 
 ## Lab Scenario Selection
 
-> **Sep 2021** - Scenarios will be assigned by your instructor.
+> **May 2022** - Scenarios will be assigned by your instructor.
 
 
 ### Database Tables and Foreign Keys
