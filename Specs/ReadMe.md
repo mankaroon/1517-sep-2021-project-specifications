@@ -16,11 +16,11 @@ Your instructor will provide any additional information on submitting/demonstrat
 This project is divided into several deliverables, outlined below.  The due dates for each deliverable are subject to change.
 
 
-* [**Deliverable 1:** - 5 %](./Deliverable-2.md) – Due **April 4, 2022**: Week 13
+* [**Deliverable 1:** - 5 %](./Deliverable-2.md) – Due **Jul 20, 2022**: Week 12
   * Initial solution setup with class libraries and web application including but not limited to: entities setup, database connection, appropriate references and navigation
-* [**Deliverable 2:** - 10 %](./Deliverable-3.md) – Due **April 8, 2022**: Week 13
+* [**Deliverable 2:** - 10 %](./Deliverable-3.md) – Due **Aug 5, 2022**: Week 14
   * Query page.
-* [**Deliverable 3:** - 20 %](./Deliverable-4.md) – Due **Aril 22, 2022**: Week 15
+* [**Deliverable 3:** - 20 %](./Deliverable-4.md) – Due **Aug 12, 2022**: Week 15
   * CRUD page.
 
 > Each deliverable part is cumulative, building on previous deliverable parts of the solution. For each deliverable, any and all supporting functionality of previous deliverables must function correctly in order to gain marks for the demonstrated deliverable.
