@@ -1,8 +1,10 @@
 # StarTED Project
 
-> **YOUR_NAME**
+> **YOUR_NAME** Mandeq Balah
 >
-> **YOUR_SCENARIO** - *Include a link to the appropriate markdown (.md) document.
+> **YOUR_SCENARIO** - AO1 Employees.
+*Include a link to the appropriate markdown (.md) document.
+https://github.com/mankaroon/1517-sep-2021-project-specifications/blob/main/Specs/Scenarios/A01.md
 
 Modify this ReadMe document with your name and scenario as indicated. Follow the [specifications](./Specs/ReadMe.md) given in this starter kit. Any updates to the specifications, including due dates, will be posted to this repository by your instructor.
 
