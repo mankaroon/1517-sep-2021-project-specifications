@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manka\\OneDrive\\Desktop\\DMIT 2022\\1517\\1517-sep-2021-project-specifications\\RazorSolution\\EmployeeSystem\\EmployeeSystem.csproj": {}
+    "C:\\Users\\manka\\OneDrive\\Desktop\\DMIT 2022\\1517\\1517-sep-2021-project-specifications\\RazorSolution\\EmployeeSystem\\StarTEDSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manka\\OneDrive\\Desktop\\DMIT 2022\\1517\\1517-sep-2021-project-specifications\\RazorSolution\\EmployeeSystem\\EmployeeSystem.csproj": {
+    "C:\\Users\\manka\\OneDrive\\Desktop\\DMIT 2022\\1517\\1517-sep-2021-project-specifications\\RazorSolution\\EmployeeSystem\\StarTEDSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manka\\OneDrive\\Desktop\\DMIT 2022\\1517\\1517-sep-2021-project-specifications\\RazorSolution\\EmployeeSystem\\EmployeeSystem.csproj",
-        "projectName": "EmployeeSystem",
-        "projectPath": "C:\\Users\\manka\\OneDrive\\Desktop\\DMIT 2022\\1517\\1517-sep-2021-project-specifications\\RazorSolution\\EmployeeSystem\\EmployeeSystem.csproj",
+        "projectUniqueName": "C:\\Users\\manka\\OneDrive\\Desktop\\DMIT 2022\\1517\\1517-sep-2021-project-specifications\\RazorSolution\\EmployeeSystem\\StarTEDSystem.csproj",
+        "projectName": "StarTEDSystem",
+        "projectPath": "C:\\Users\\manka\\OneDrive\\Desktop\\DMIT 2022\\1517\\1517-sep-2021-project-specifications\\RazorSolution\\EmployeeSystem\\StarTEDSystem.csproj",
         "packagesPath": "C:\\Users\\manka\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\manka\\OneDrive\\Desktop\\DMIT 2022\\1517\\1517-sep-2021-project-specifications\\RazorSolution\\EmployeeSystem\\obj\\",
         "projectStyle": "PackageReference",
