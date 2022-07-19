@@ -1,0 +1,12 @@
+C:\Users\manka\OneDrive\Desktop\DMIT 2022\1517\1517-sep-2021-project-specifications\RazorSolution\EmployeeSystem\bin\Debug\net6.0\StarTEDSystem.deps.json
+C:\Users\manka\OneDrive\Desktop\DMIT 2022\1517\1517-sep-2021-project-specifications\RazorSolution\EmployeeSystem\bin\Debug\net6.0\StarTEDSystem.dll
+C:\Users\manka\OneDrive\Desktop\DMIT 2022\1517\1517-sep-2021-project-specifications\RazorSolution\EmployeeSystem\bin\Debug\net6.0\StarTEDSystem.pdb
+C:\Users\manka\OneDrive\Desktop\DMIT 2022\1517\1517-sep-2021-project-specifications\RazorSolution\EmployeeSystem\obj\Debug\net6.0\StarTEDSystem.csproj.AssemblyReference.cache
+C:\Users\manka\OneDrive\Desktop\DMIT 2022\1517\1517-sep-2021-project-specifications\RazorSolution\EmployeeSystem\obj\Debug\net6.0\StarTEDSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manka\OneDrive\Desktop\DMIT 2022\1517\1517-sep-2021-project-specifications\RazorSolution\EmployeeSystem\obj\Debug\net6.0\StarTEDSystem.AssemblyInfoInputs.cache
+C:\Users\manka\OneDrive\Desktop\DMIT 2022\1517\1517-sep-2021-project-specifications\RazorSolution\EmployeeSystem\obj\Debug\net6.0\StarTEDSystem.AssemblyInfo.cs
+C:\Users\manka\OneDrive\Desktop\DMIT 2022\1517\1517-sep-2021-project-specifications\RazorSolution\EmployeeSystem\obj\Debug\net6.0\StarTEDSystem.csproj.CoreCompileInputs.cache
+C:\Users\manka\OneDrive\Desktop\DMIT 2022\1517\1517-sep-2021-project-specifications\RazorSolution\EmployeeSystem\obj\Debug\net6.0\StarTEDSystem.dll
+C:\Users\manka\OneDrive\Desktop\DMIT 2022\1517\1517-sep-2021-project-specifications\RazorSolution\EmployeeSystem\obj\Debug\net6.0\refint\StarTEDSystem.dll
+C:\Users\manka\OneDrive\Desktop\DMIT 2022\1517\1517-sep-2021-project-specifications\RazorSolution\EmployeeSystem\obj\Debug\net6.0\StarTEDSystem.pdb
+C:\Users\manka\OneDrive\Desktop\DMIT 2022\1517\1517-sep-2021-project-specifications\RazorSolution\EmployeeSystem\obj\Debug\net6.0\ref\StarTEDSystem.dll
